@@ -1,0 +1,151 @@
+product_id,product_name,category,unit_price,stock_quantity
+1,Classic Jeans,Accessories,102.08,21
+2,Classic Dress,Women's Wear,81.9,77
+3,Premium Shorts,Footwear,89.1,153
+4,Classic Jeans,Men's Wear,114.23,186
+5,Premium T-Shirt,Kids,76.16,47
+6,Trendy Jacket,Men's Wear,47.37,20
+7,Urban Sneakers,Women's Wear,85.03,100
+8,Casual Belt,Footwear,93.7,70
+9,Premium Jacket,Accessories,17.6,198
+10,Urban Belt,Women's Wear,43.01,189
+11,Classic Belt,Men's Wear,105.15,66
+12,Premium Shorts,Kids,47.05,68
+13,Premium T-Shirt,Women's Wear,56.84,81
+14,Classic Cap,Kids,82.36,112
+15,Casual Dress,Men's Wear,27.11,76
+16,Premium Cap,Men's Wear,26.38,121
+17,Urban Dress,Accessories,78.65,140
+18,Classic Belt,Footwear,34.96,21
+19,Trendy T-Shirt,Footwear,112.19,147
+20,Premium Dress,Accessories,22.35,180
+21,Urban Dress,Men's Wear,90.57,86
+22,Casual Cap,Accessories,49.25,188
+23,Urban Jacket,Women's Wear,59.15,107
+24,Premium Cap,Accessories,72.53,10
+25,Urban Cap,Women's Wear,60.14,158
+26,Casual Dress,Accessories,61.39,182
+27,Premium Shorts,Women's Wear,84.18,82
+28,Casual Dress,Men's Wear,100.93,70
+29,Urban Sneakers,Women's Wear,30.47,21
+30,Premium Shorts,Footwear,104.22,28
+31,Trendy Belt,Footwear,35.42,188
+32,Trendy Shorts,Accessories,40.62,177
+33,Classic Jeans,Accessories,37.98,188
+34,Casual Shorts,Men's Wear,73.53,41
+35,Trendy Jacket,Accessories,85.1,153
+36,Casual Dress,Accessories,79.33,194
+37,Casual Belt,Footwear,61.82,50
+38,Trendy Shorts,Kids,93.94,173
+39,Urban Shorts,Women's Wear,43.83,29
+40,Urban Sneakers,Kids,50.26,148
+41,Classic Jacket,Women's Wear,39.28,187
+42,Premium Sneakers,Men's Wear,58.56,94
+43,Casual Shorts,Accessories,21.54,117
+44,Trendy T-Shirt,Footwear,54.94,11
+45,Urban Cap,Accessories,104.61,117
+46,Casual Sneakers,Accessories,38.04,121
+47,Trendy T-Shirt,Accessories,50.29,183
+48,Trendy Jacket,Accessories,111.55,169
+49,Casual T-Shirt,Accessories,77.15,179
+50,Classic Jeans,Accessories,29.25,128
+51,Premium T-Shirt,Kids,54.81,64
+52,Trendy Dress,Kids,94.93,107
+53,Urban Belt,Kids,102.67,130
+54,Classic T-Shirt,Kids,38.54,27
+55,Classic T-Shirt,Women's Wear,35.93,15
+56,Casual Jacket,Women's Wear,28.25,181
+57,Classic Sneakers,Accessories,88.44,104
+58,Premium Jeans,Women's Wear,116.3,37
+59,Casual T-Shirt,Kids,75.46,106
+60,Trendy Sneakers,Men's Wear,77.17,170
+61,Premium Jeans,Kids,104.28,163
+62,Classic T-Shirt,Kids,70.94,179
+63,Urban Jeans,Footwear,82.99,13
+64,Trendy Shorts,Men's Wear,60.52,102
+65,Trendy Jacket,Accessories,33.49,143
+66,Urban Shorts,Accessories,60.74,197
+67,Casual Cap,Kids,104.43,32
+68,Urban Shorts,Women's Wear,93.8,155
+69,Casual Belt,Kids,18.01,93
+70,Premium Shorts,Women's Wear,52.26,76
+71,Urban Cap,Footwear,88.62,80
+72,Casual T-Shirt,Footwear,114.55,31
+73,Premium Belt,Accessories,73.29,71
+74,Trendy Shorts,Accessories,98.26,33
+75,Urban Sneakers,Accessories,87.64,88
+76,Casual Dress,Accessories,73.11,98
+77,Trendy Dress,Kids,88.8,79
+78,Urban Cap,Women's Wear,27.67,59
+79,Urban Jeans,Footwear,114.84,186
+80,Premium Sneakers,Women's Wear,92.55,80
+81,Casual Cap,Men's Wear,102.43,85
+82,Premium Dress,Women's Wear,46.74,191
+83,Casual Jacket,Kids,19.78,23
+84,Casual Cap,Women's Wear,81.98,135
+85,Classic T-Shirt,Footwear,44.86,132
+86,Trendy Dress,Women's Wear,116.38,74
+87,Trendy Jeans,Men's Wear,57.07,28
+88,Casual T-Shirt,Women's Wear,30.67,154
+89,Urban Jeans,Women's Wear,27.44,116
+90,Casual Sneakers,Footwear,54.94,123
+91,Urban Belt,Kids,74.71,25
+92,Casual Jeans,Women's Wear,80.68,77
+93,Classic Jacket,Women's Wear,33.25,29
+94,Premium T-Shirt,Accessories,62.3,162
+95,Trendy Cap,Men's Wear,39.31,190
+96,Urban Shorts,Men's Wear,87.18,77
+97,Casual Sneakers,Accessories,27.05,67
+98,Premium Cap,Women's Wear,22.5,52
+99,Urban Cap,Accessories,28.06,186
+100,Urban Belt,Kids,67.55,136
+101,Trendy Jeans,Footwear,19.19,120
+102,Urban Cap,Men's Wear,24.59,182
+103,Casual T-Shirt,Kids,75.51,54
+104,Trendy Shorts,Kids,34.06,159
+105,Trendy Shorts,Men's Wear,64.35,114
+106,Urban Dress,Men's Wear,105.06,94
+107,Trendy Shorts,Kids,84.57,112
+108,Casual T-Shirt,Accessories,24.25,74
+109,Urban Jeans,Accessories,105.82,10
+110,Casual Shorts,Accessories,20.69,142
+111,Urban Shorts,Accessories,94.8,62
+112,Urban Jacket,Kids,61,188
+113,Trendy Jeans,Men's Wear,117.18,165
+114,Premium Jacket,Kids,72.84,151
+115,Trendy Jeans,Women's Wear,119.19,39
+116,Trendy Jeans,Women's Wear,67.33,193
+117,Urban Cap,Accessories,102.65,130
+118,Premium Shorts,Footwear,30.19,58
+119,Casual Jacket,Men's Wear,44.01,116
+120,Urban Cap,Men's Wear,44.7,86
+121,Casual Shorts,Women's Wear,61.89,133
+122,Urban Dress,Footwear,95.1,106
+123,Trendy Dress,Women's Wear,117.98,71
+124,Casual Belt,Women's Wear,104.88,115
+125,Classic Dress,Accessories,89.05,107
+126,Trendy Jacket,Accessories,116.31,42
+127,Casual Dress,Men's Wear,106.79,122
+128,Classic Shorts,Men's Wear,90.86,114
+129,Premium Jeans,Accessories,97.06,77
+130,Urban Belt,Men's Wear,104.44,182
+131,Casual Belt,Kids,80.81,134
+132,Casual T-Shirt,Footwear,22.18,171
+133,Urban Sneakers,Men's Wear,60.57,35
+134,Classic Shorts,Women's Wear,87.87,17
+135,Classic Dress,Men's Wear,45.8,105
+136,Trendy Jacket,Women's Wear,70.77,154
+137,Premium Jacket,Women's Wear,23.29,107
+138,Casual Sneakers,Accessories,110.85,46
+139,Premium Shorts,Kids,63.25,180
+140,Classic Shorts,Kids,86.15,50
+141,Classic Shorts,Kids,118.7,86
+142,Trendy Cap,Accessories,103.76,60
+143,Trendy Shorts,Men's Wear,39.91,156
+144,Urban Cap,Kids,17.3,178
+145,Trendy Cap,Men's Wear,74.42,185
+146,Classic Shorts,Kids,96.45,68
+147,Casual Dress,Women's Wear,81.84,168
+148,Urban Jacket,Men's Wear,109.86,175
+149,Classic Cap,Accessories,18.5,103
+150,Premium Jeans,Kids,49.31,116
